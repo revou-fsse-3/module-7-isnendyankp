@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mn6pV4Nk)
+## Installing Flask Projects
+
+1. pip3 install vitualenv
+2. virtualenv venv
+3. .venv\Scripts\activate
+4. pip3 install Flask python-dotenv SQLAlchemy
+
+
+## Running Flask Projects
+
+1. flask --app index run --debug
+
+## Installing mysql connector
+
+1. pip3 install mysql-connector-python
